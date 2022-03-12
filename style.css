@@ -11,14 +11,16 @@ a{
 }
 .bi-star-fill{
     color: #FFC014;
-    height: 11.81px;
-    width: 12.39px;
+    font-size: 11px;
+}
+.bi-clock{
+    font-size: 15px;
 }
 .runtime{
     background: #FFE4E8;
     border-radius: 14.6913px;
-    Width: 94.83px;
-    Height: 29.38px;
+    padding-left: 8px;
+    padding-right: 8px;
     text-align: center;
     padding-top: 3px;
 }
